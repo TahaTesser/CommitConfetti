@@ -2,6 +2,12 @@
 
 Celebrate your Git commits with a burst of confetti in Raycast! CommitConfetti adds a fun, visual celebration to your development workflow by triggering Raycast's confetti animation every time you make a commit.
 
+
+
+https://github.com/user-attachments/assets/0db69762-f281-452e-bead-3537fe22e7f6
+
+
+
 ## Requirements
 
 - macOS
